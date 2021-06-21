@@ -32,6 +32,5 @@ Website Link :-  https://sparkabirbank.firebaseapp.com
 ![Home Page of Spark Bank](./images/pic3.jpg)
 
 # 👩🏻‍💻 Author 
-- [Abir Pal](www.linkedin.com/in/abir-pal)
-- [Saikat Mukherjee](https://www.linkedin.com/in/saikat-mukherjee-2a925b1b7/)
+- [Abir Pal](https://www.linkedin.com/in/abir-pal/)
   
